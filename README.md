@@ -10,4 +10,4 @@
 
 ## Subgraph
 
-- Development - https://thegraph.com/hosted-service/subgraph/kiv1n/mentordao-dev
+- Development - https://thegraph.com/hosted-service/subgraph/toledoroy/mdao
