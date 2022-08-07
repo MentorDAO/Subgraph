@@ -10,4 +10,4 @@
 
 ## Subgraph
 
-- Development - https://thegraph.com/hosted-service/subgraph/toledoroy/mdao
+- Development [op-kovan] - https://thegraph.com/hosted-service/subgraph/toledoroy/mdao
